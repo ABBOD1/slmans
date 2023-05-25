@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+*{
+    font-family: 'Cairo', sans-serif;
+    color: white;
+}
+
+body {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M171.73 573.88C334.79 573.07 478.42 437.89 808.95 434.68 1139.47 431.47 1278.23 224.67 1446.16 221.88' stroke='rgba(51%2c121%2c194%2c0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M340.55 606.91C537.79 589.83 673.13 185.32 1010.72 185.01 1348.32 184.7 1501.46 438.22 1680.9 442.61' stroke='rgba(51%2c121%2c194%2c0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M552.54 660.24C709.81 640.38 804.71 282.84 1061.84 282.49 1318.96 282.14 1431 512.1 1571.13 517.69' stroke='rgba(51%2c121%2c194%2c0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M758.91 609.41C857.64 585.22 798.83 334.75 1042.97 318.5 1287.11 302.25 1461.32 130.61 1611.09 128.1' stroke='rgba(51%2c121%2c194%2c0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M872.07 626.76C985.71 543.62 921.85 123.9 1117.6 119.86 1313.36 115.82 1472.09 354.3 1608.67 360.66' stroke='rgba(51%2c121%2c194%2c0.58)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+
+background-size: 2000px;
+}
+
+img {
+    width: 250px;
+}
